@@ -10,11 +10,27 @@
 
 2. class Dosen memiliki attribute (NIP, nama, mengajarMatkul, ruang, alamat, no_hp), class Mahasiswa memiliki attribute (NIM, nama, kelas, jurusan, alamat, no_hp) class Matkul memiliki attribute (KodeMatkul, nama), class nilai memiliki attribute (nilai).
 
-<img src="../model/gambar/penilaian.jpeg">
+<img src="../model/img/penilaian.jpg">
+
+<img src="../model/img/dosen.jpg">
+
+<img src="../model/img/mahasiswa.jpg">
+
+<img src="../model/img/matkul.jpg">
+
+<img src="../model/img/nilai.jpg">
+
+<img src="../model/img/main.jpg">
+
+
 
 3. pada soal nomor 3 saya telah membuat class diagram dan juga mengeneratenya ke dalam file java yang berisi mengenai hitung luas dan keliling persegi.
 
-NB: mohon maaf pak untuk laporan gambarnya tidak saya cantumkan disini karna ketika saya coba untuk mencantukan tidak muncul saat di preview jadi filenya saya sendirikan di dalam folder model kemudian di folder gambar sudah terdapat semua laporan gambar pengerjaan tugas kedua saya ini. sekali lagi mohon maaf semoga bapak bisa memaklumi hal ini terima kasih.
+<img src="../model/img/persegidiagram.jpg">
+
+<img src="../model/img/persegi.jpg">
+
+<img src="../model/img/tampilPersegi.jpg">
 
 
 
