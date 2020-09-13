@@ -40,11 +40,12 @@ Main.java
 
 Persegi.java
 
-<img src="../model/img/persegi.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/persegi.JPG)
 
 TampilPersegi.java
 
-<img src="../model/img/tampilPersegi.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/tampilPersegi.JPG)
+
 
 
 
