@@ -12,15 +12,25 @@
 
 <img src="../model/img/penilaian.jpg">
 
-<img src="../model/img/dosen.jpg">
+Dosen.java
 
-<img src="../model/img/mahasiswa.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/dosen.JPG)
 
-<img src="../model/img/matkul.jpg">
+Mahasiswa.java
 
-<img src="../model/img/nilai.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/mahasiswa.JPG)
 
-<img src="../model/img/main.jpg">
+Matakuliah.java
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/matkul.JPG)
+
+Nilai.java
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/nilai.JPG)
+
+Main.java
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/main.JPG)
 
 
 
@@ -28,7 +38,11 @@
 
 <img src="../model/img/persegidiagram.jpg">
 
+Persegi.java
+
 <img src="../model/img/persegi.jpg">
+
+TampilPersegi.java
 
 <img src="../model/img/tampilPersegi.jpg">
 
