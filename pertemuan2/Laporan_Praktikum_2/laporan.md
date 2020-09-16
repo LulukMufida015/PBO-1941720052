@@ -16,52 +16,55 @@ class diagram ini memiliki 4 attribute yang public bisa digunakan di class lain 
 
 2. Soal 2 Source code dari soal 1
 
-<img src="../gambar/output peminjaman.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/output%20peminjaman.JPG)
 
 3. Soal 3 class lingkaran
 
-<img src="../gambar/output lingkaran.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/output%20lingkaran.JPG)
 
 4. Soal 4 class barang
 
-<img src="../gambar/output barang.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/output%20barang.JPG)
 
 ## Penjelasan Program
 
 1. Peminjaman.java
 
-<img src="../gambar/codepeminjaman.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/codepeminjaman.JPG)
 
 class ini memiliki attribute id, nama member, nama game, dan juga harga. di dalam class ini juga terdapat method menghitung total harga yang harus dibayar dengan rumus harga dikali lama sewa dari game tersebut.
 
 2. PeminjamanMain.java
 
-<img src="../gambar/peminjamanmain.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/peminjamanmain.JPG)
 
 
 class ini berguna untuk memanggil dan membuat objek untuk class peminjaman.
 
 3. Lingkaran.java
 
-<img src="../gambar/codelingkaran.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/codelingkaran.JPG)
 
 class ini memiliki attribute phi dan r yakni jari jari merupakan komponen utama atau bagian utama yang ada di rumus hitung keliling dan luas lingkaran sehingga dapat dipanggil didalam method hitung luas dan hitung keliling.
 
 4. LingkaranMain.java
 
-<img src="../gambar/lingkaranmain.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/lingkaranmain.JPG)
+
 
 class ini berguna untuk memanggil dan membuat objek untuk class lingkaran.
 
 5. Barang.java
 
-<img src="../gambar/codebarang.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/codebarang.JPG)
+
 
 class ini memiliki attribute kode, nama barang, harga dasar dan juga diskon dimana ada perhitungan harga jika terdapat diskon pada barang tersebut sehingga muncullah method hitung harga jual yang menghitung harga dari barang dikurangi diskon yang ada pada barang tersebut.
 
 6. BarangMain.java
 
-<img src="../gambar/barangmain.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/barangmain.JPG)
+
 
 class ini berguna untuk memanggil dan membuat objek untuk class barang.
 
