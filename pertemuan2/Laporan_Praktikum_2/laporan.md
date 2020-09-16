@@ -37,8 +37,11 @@ class ini memiliki attribute id, nama member, nama game, dan juga harga. di dala
 2. PeminjamanMain.java
 
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/peminjamanmain.JPG)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 801a30f60442bc573e91321e6f70fff6a63928e8
 class ini berguna untuk memanggil dan membuat objek untuk class peminjaman.
 
 3. Lingkaran.java
@@ -50,21 +53,30 @@ class ini memiliki attribute phi dan r yakni jari jari merupakan komponen utama 
 4. LingkaranMain.java
 
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/lingkaranmain.JPG)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 801a30f60442bc573e91321e6f70fff6a63928e8
 
 class ini berguna untuk memanggil dan membuat objek untuk class lingkaran.
 
 5. Barang.java
 
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/codebarang.JPG)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 801a30f60442bc573e91321e6f70fff6a63928e8
 
 class ini memiliki attribute kode, nama barang, harga dasar dan juga diskon dimana ada perhitungan harga jika terdapat diskon pada barang tersebut sehingga muncullah method hitung harga jual yang menghitung harga dari barang dikurangi diskon yang ada pada barang tersebut.
 
 6. BarangMain.java
 
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/gambar/barangmain.JPG)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 801a30f60442bc573e91321e6f70fff6a63928e8
 
 class ini berguna untuk memanggil dan membuat objek untuk class barang.
 

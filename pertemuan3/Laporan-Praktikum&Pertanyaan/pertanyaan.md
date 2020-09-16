@@ -18,7 +18,7 @@
 
 3. Ubah class Motor sehingga kecepatan maksimalnya adalah 100!
 
-![output]()
+
 
 3.6 Pertanyaan – Percobaan 3 dan 4
 

@@ -59,8 +59,12 @@ class selimut juga inheritance terhadap class baju namun memiliki attribute tamb
 pada class kipas angin ini dia berdiri sendiri tidak menjadi parent maupun class yang diwarisi, class ini memiliki attribute merek, jenis dan kecepatan yang dapat diatur menggunakan method sesuai dengan code diatas.
 
 5. TV.java
+<<<<<<< HEAD
 
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan1/gambar/codemain1.JPG)
+=======
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan1/gambar/codetv.JPG)
+>>>>>>> 801a30f60442bc573e91321e6f70fff6a63928e8
 
 class ini juga berdiri sendiri dengan memiliki attribute LCD, volume yang dapat dinaikkan atau diturunkan, dan juga ukuran dari layar tv yang biasanya memiliki satuan inch.
 

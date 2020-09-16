@@ -21,6 +21,19 @@ Mahasiswa.java
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/mahasiswa.JPG)
 
 Matakuliah.java
+<<<<<<< HEAD
+=======
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/matkul.JPG)
+
+Nilai.java
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/nilai.JPG)
+
+Main.java
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/main.JPG)
+>>>>>>> 801a30f60442bc573e91321e6f70fff6a63928e8
 
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/matkul.JPG)
 
@@ -42,8 +55,14 @@ Persegi.java
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/persegi.JPG)
 
 TampilPersegi.java
+<<<<<<< HEAD
 
 ![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/tampilPersegi.JPG)
+=======
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan2/model/img/tampilPersegi.JPG)
+
+>>>>>>> 801a30f60442bc573e91321e6f70fff6a63928e8
 
 
 
