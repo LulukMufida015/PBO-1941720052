@@ -18,7 +18,7 @@
 
 3. Ubah class Motor sehingga kecepatan maksimalnya adalah 100!
 
-
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan3/img/soal3.png)
 
 3.6 Pertanyaan – Percobaan 3 dan 4
 
