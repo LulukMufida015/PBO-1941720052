@@ -40,5 +40,4 @@ public class Kursi {
         }
         return info;
     }
-    
 }
