@@ -8,4 +8,4 @@
 
 Hasil Output Program
 
-<img src="output.jpg">
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan4/Laporan-TugasPraktikum/output.JPG)
