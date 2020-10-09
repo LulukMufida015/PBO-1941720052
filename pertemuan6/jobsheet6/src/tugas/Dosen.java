@@ -9,7 +9,18 @@ package tugas;
  *
  * @author Windows 10
  */
-public class Dosen {
+public class Dosen extends Pegawai{
     public int jumlahSKS;
-    public int TARIF_SKS;
+    public int TARIF_SKS = 200000;
+    
+    public Dosen(String nip, String nama, String alamat){
+        super(nip, nama, alamat);
+    }
+    public void setSKS(int sks){
+        this.jumlahSKS = sks;
+    }
+    public int getGaji(){
+        int total_gaji = jumlahSKS * TARIF_SKS;
+        return total_gaji + super.getGaji();
+    }
 }
