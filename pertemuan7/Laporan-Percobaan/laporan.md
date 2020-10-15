@@ -10,7 +10,7 @@ PERCOBAAN 1
 
 Output program
 
-![output]()
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan7/imgOutput/p1.JPG)
 
 1. Sebutkan class mana yang termasuk super class dan sub class dari percobaan 1 diatas!
 
@@ -39,7 +39,7 @@ PERCOBAAN 2
 
 Output Program 
 
-![output]()
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan7/imgOutput/p2.JPG)
 
 1. Berdasarkan class diatas manakah yang termasuk single inheritance dan mana yang termasuk multilevel inheritance?
 
@@ -63,4 +63,4 @@ langsung. Kenapa hal ini bisa terjadi dan bagaimana class StaffTetap memiliki at
 lembur, dan potongan padahal dalam class tersebut tidak dideklarasikan atribut gaji, lembur, 
 dan potongan?
 
-Jawab: 
+Jawab: Karena class StaffTetap telah mewarisi semua attribute dari class Staff yang didapat dari class Karyawan maka tidak perlu lagi memamnggilnya dengan super karena sudah merujuk pada class Staff.
