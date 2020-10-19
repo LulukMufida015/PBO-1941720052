@@ -9,35 +9,44 @@ package uts;
  *
  * @author Windows 10
  */
-public class SepedaMotor {
-    private Mesin mesin;
-    private String merekMotor;
+public class SepedaMotor extends Mesin{
+   private Mesin mesin;
+   private String merekMotor;
 
     public SepedaMotor(String merekMotor, String merekMesin) {
-        this.mesin = mesin;
         this.merekMotor = merekMotor;
-    }
-
-    public SepedaMotor(Mesin mesin, String merekMotor) {
-        this.mesin = mesin;
-        this.merekMotor = merekMotor;
-    }
-    
-    public String getMerekMesin(){
-        return mesin.getMerek();
+        super.setMerek(merekMesin);
     }
 
     public String getMerekMotor() {
         return merekMotor;
     }
 
-    public void setMerekMotor(String merekMotor) {
-        this.merekMotor = merekMotor;
+    public void setMerekMotor(String MerekMotor) {
+        this.merekMotor = MerekMotor;
     }
-    public void tambahKecepatanMotor(){
-        mesin.tambahKecepatan();
+   
+   public String getMerekMesin() {
+        return super.getMerek();
     }
-    public void kurangiKecepatanMotor(){
-        mesin.kurangiKecepatan();
-    }
+   public void tambahKecepatanMotor(){
+       String merk =getMerekMesin();
+       if (merk.equalsIgnoreCase("Honda")){
+           super.tambahkecepatan(10);
+       }
+       else if (merk.equalsIgnoreCase("Yamaha")){
+           super.tambahkecepatan(15);
+       }
+       System.out.println(super.getKecepatan()+" Km/jam");
+   }
+   public void kurangiKecepatanMotor(){
+       String merk =getMerekMesin();
+       if (merk.equalsIgnoreCase("Honda")){
+           super.kurangiKecepatan(5);
+       }
+       else if (merk.equalsIgnoreCase("Yamaha")){
+           super.kurangiKecepatan(10);
+       }
+       System.out.println(super.getKecepatan()+" Km/jam");
+   }
 }

@@ -16,11 +16,6 @@ public class Mesin {
     public Mesin() {
     }
 
-    public Mesin(String merek) {
-        this.merek = merek;
-    }
-
-    
     public String getMerek() {
         return merek;
     }
@@ -36,18 +31,13 @@ public class Mesin {
     public void setKecepatan(double kecepatan) {
         this.kecepatan = kecepatan;
     }
-    public void tambahKecepatan(){
-        if(merek == "Honda"){
-            kecepatan =+ 10;
-        } else if(merek == "Yamaha"){
-            kecepatan =+ 15;
-        }
+    
+    public void tambahkecepatan(double x){
+        if (kecepatan <= 100)
+        kecepatan += x;
     }
-    public void kurangiKecepatan(){
-        if(merek == "Honda"){
-            kecepatan =- 5;
-        } else if(merek == "Yamaha"){
-            kecepatan =- 10;
-        }
+    public void kurangiKecepatan(double x){
+        if (kecepatan >= 0)
+        kecepatan -= x;
     }
 }

@@ -17,7 +17,7 @@ public class DemoUTS {
     public static void main(String[] args) {
         SepedaMotor honda = new SepedaMotor("Vario", "Honda");
         System.out.println(honda.getMerekMotor());
-        System.out.println(honda.getMerekMesin());
+        System.out.println(honda.getMerek());
         honda.tambahKecepatanMotor();
         honda.tambahKecepatanMotor();
         honda.kurangiKecepatanMotor();
@@ -25,10 +25,11 @@ public class DemoUTS {
         System.out.println();
         SepedaMotor yamaha = new SepedaMotor("NMax", "Yamaha");
         System.out.println(yamaha.getMerekMotor());
-        System.out.println(yamaha.getMerekMesin());
+        System.out.println(yamaha.getMerek());
         yamaha.tambahKecepatanMotor();
         yamaha.tambahKecepatanMotor();
         yamaha.kurangiKecepatanMotor();
+        
     }
     
 }
