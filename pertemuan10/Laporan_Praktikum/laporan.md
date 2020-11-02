@@ -6,7 +6,9 @@
 
 ## Absen/NIM : 11/1941720052
 
-Output Program
+Output Program Praktikum
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan10/img/outPrak.JPG)
 
 Pertanyaan diskusi!
 
@@ -16,6 +18,8 @@ mengimplementasikan method abstract yang ada di class induknya? Buktikan!
 Jawab: Tidak Boleh, karena subclass akan terjadi error dan meminta untuk melakukan override terhadap kelas parentnya.
 
 Pembuktian
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan10/img/diskusi.JPG)
 
 Pertanyaan!
 
@@ -30,6 +34,8 @@ Jawab: Pada class Hewan method bergerak sudah menjadi method abstract dan tidak 
 
 Kompilasi
 
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan10/img/outPrak.JPG)
+
 
 3. Tunjukkan hasil kompilasi program dan berikan penjelasan singkat jika tidak dilakukan 
 overriding terhadap method bergerak()
@@ -38,9 +44,15 @@ jawab: Maka akan terjadi error pada class tersebut karena class turunan dari cla
 
 Kompilasi
 
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan10/img/3.JPG)
+
 4. Tunjukkan hasil kompilasi program dan berikan penjelasan singkat jika abstract method
 bergerak()yang dideklarasikan dalam Class Ikan 
 
 Jawab: Maka akan terjadi error pada class Ikan karena merupakan class turunan dan bukan berupa class abstract.
 
 Kompilasi
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan10/img/4.JPG)
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan10/img/4.2.JPG)
