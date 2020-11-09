@@ -10,6 +10,8 @@ Percobaan 1
 
 Output Program
 
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/p1.JPG)
+
 Pertanyaan Percobaan 1!
 
 1. Pada  langkah  ke  9,  pada  baris  program  ke  3  terdapat  warning  pada  script  tersebut. 
@@ -41,9 +43,17 @@ class Program menjadi seperti berikut ini:
 
 Jawab : Yang diubah adalah di class Mahasiswa di implementasikan class interface dengan mengosongkan method abstractnya kemudian di class Rektor parameter pada methode beriSertifikatCumlaude diganti menjadi bertipe data Mahasiswa.
 
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/code_p6mhs.JPG)
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/code_p6rektor.JPG)
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/p6_p1.JPG)
+
 Percobaan 2
 
 Output Program
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/p2.JPG)
 
 Pertanyaan Percobaan 2!
 
@@ -51,6 +61,10 @@ Pertanyaan Percobaan 2!
 dibawah ini :
 
 Jawab : Hal tersebut akan menyebabkann error karena modifier yang dapat digunakan pada class interface hanya public.
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/code_p1_p2.JPG)
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/out_p1_p2.JPG)
 
 2. Perhatikan script code dibawah ini :
 
@@ -63,5 +77,6 @@ menerbitkan artikel di jurnal NASIONAL, maka modifikasilah  class-class yang ter
 pada aplikasi Anda agar di class Program objek pakRektor dapat memberikan sertifikat 
 mawapres pada objek sarjanaCumlaude.
 
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan11/img/p3_p2.JPG)
 
 
