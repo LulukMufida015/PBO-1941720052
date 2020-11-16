@@ -10,6 +10,8 @@ Percobaan 1
 
 Output Program
 
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan12/img/p1.JPG)
+
 Pertanyaan Percobaan 1
 
 1.  Class apa sajakah yang merupakan turunan dari class Employee?
@@ -33,15 +35,19 @@ Jawab : Karena kedua class tersebut mengimplementasikan class interface Payable 
 pada baris 14 dan 15 (baris terakhir dalam method main) ! Apa yang 
 menyebabkan error?
 
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan12/img/p5.pc1.JPG)
+
 Jawab : Terjadi error karena objek iEmp dari class IntershipEmployee tidak mengimplementasikan class interface Payable p dan objek eBill objek dari class ElectricityBill bukan turunan/extends dari class Employee e.
 
 6.  Ambil kesimpulan tentang konsep/bentuk dasar polimorfisme!
 
-Jawab : 
+Jawab : Polimorfisme merupakan kemampuan suatu objek untuk dapat memiliki banyak bentuk objek. Dengan catatan kelas dari bentuk objek tersebut masih ada hubungan dengan kelas objek misal extends atau implements.
 
 Percobaan 2
 
 Output Program
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan12/img/p2.JPG)
 
 Pertanyaan Percobaan 2!
 
@@ -79,6 +85,8 @@ Jawab : Karena objek eBill dibuat dari kelas ElectricityBill yang tidak memiliki
 Percobaan 4!
 
 Output Program
+
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan12/img/p4.JPG)
 
 Pertanyaan Percobaan 4!
 
