@@ -7,7 +7,7 @@ package frontend;
 
 /**
  *
- * @author syaifuddin
+ * @author Windows 10
  */
 public class FrmHome extends javax.swing.JFrame {
 

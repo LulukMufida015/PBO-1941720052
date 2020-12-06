@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author syaifuddin
+* @author Windows 10
  */
 public class FrmKategori extends javax.swing.JFrame {
 

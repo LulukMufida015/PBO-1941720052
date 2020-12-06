@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author syaifuddin
+* @author Windows 10
  */
 public final class FrmPeminjaman extends javax.swing.JFrame {
 
