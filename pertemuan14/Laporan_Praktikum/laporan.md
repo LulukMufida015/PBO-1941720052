@@ -1,4 +1,4 @@
-# Laporan Percobaan Praktikum Pertemuan 12
+# Laporan Percobaan Praktikum Pertemuan 14
 
 ## Nama : Luluk Mufida
 
@@ -41,4 +41,4 @@ Form Peminjaman
 
 Database tabel peminjaman
 
-![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan14/img/dbpemin.JPG)
+![output](https://github.com/LulukMufida015/PBO-1941720052/blob/master/pertemuan14/img/dbpeminjaman.JPG)
